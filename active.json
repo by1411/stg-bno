@@ -1,0 +1,2222 @@
+[
+  {
+    "ref": "A438C60EAE546B3DAE50A4A026131BC2C86A40AC639213021A0C51420289BD08(0)",
+    "_data": {
+      "member": "OU=Universe Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 429152323,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Universe Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Universe Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Universe Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1637234569141,
+      "modified": 1637295898296,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "9a2b74aa-fe0b-4327-8290-3a3d82043ac0"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Universe Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "730BC4CCFE99EBADFF707A62DDFD7F06AE90CB8ED4FE595C3D39FEF21793B977(0)",
+    "_data": {
+      "member": "OU=Tenancy Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 51759598,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Tenancy Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Tenancy Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Tenancy Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1637234551687,
+      "modified": 1637295840052,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "777c443b-e169-4a28-99c6-f0d22fcd1069"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Tenancy Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "B2F5F8872E740AD35A4487E368A238C6685F2C4DB613C19CD1A2C92F3BC4F13B(0)",
+    "_data": {
+      "member": "OU=Talent Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 93970251,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Talent Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Talent Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Talent Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1637233801772,
+      "modified": 1637295815259,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "9e55fc96-5339-45d1-b9dc-7ca749092ef7"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Talent Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "670692D5C5E23D40335FC21A358FD4CD7D2740BB55E8AAE98AD61E804F70CC99(0)",
+    "_data": {
+      "member": "OU=Unification Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 370394606,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Unification Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Unification Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Unification Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1637234359825,
+      "modified": 1637295789929,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "86509d94-c54d-455a-b156-e90ee33f26d9"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Unification Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "3EBDF048AD53ABEA5903A81454A6CDFCF61F8E5D1B3F7352B5199FB09A834730(0)",
+    "_data": {
+      "member": "OU=Head Office-UATenv2, O=CTBC Bank Co. Ltd., L=Taipei, C=TW",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 359898385,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "CTBC Bank Co. Ltd. UAT2",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "CTBC Bank Co. Ltd.",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "CTBC Bank Co. Ltd.",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1637214041346,
+      "modified": 1637217436254,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "72ccb639-ace4-43d6-a185-ff8a826e35cf"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Head Office-UATenv2, O=CTBC Bank Co. Ltd., L=Taipei, C=TW"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "FBD8A5DB8E337B551CA0F718557936E7CC58D5F5CED5CB8B3867E4D2B5600B5E(0)",
+    "_data": {
+      "member": "OU=Head Office-UATenv, O=CTBC Bank Co. Ltd., L=Taipei, C=TW",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 19858574,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "CTBC Bank Co. Ltd.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "CTBC Bank Co. Ltd.",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "CTBC Bank Co. Ltd.",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1634782812819,
+      "modified": 1634784452136,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "502ab3d0-eff7-4aee-8a80-21babdcba8ab"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Head Office-UATenv, O=CTBC Bank Co. Ltd., L=Taipei, C=TW"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2403667D82451C9AB4ED267CED57540377E0ACF623FEF13EA67F4DC9ED7A845C(0)",
+    "_data": {
+      "member": "O=Skandinaviska Enskilda Banken AB (publ), L=Stockholm, C=SE",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 401138298,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Skandinaviska Enskilda Banken AB",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Skandinaviska Enskilda Banken AB (publ)",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Skandinaviska Enskilda Banken AB (publ)",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1605857561326,
+      "modified": 1605858148899,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3bd769c9-26c4-42f6-972c-3ff081069ee1"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "O=Skandinaviska Enskilda Banken AB (publ), L=Stockholm, C=SE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9FB6166FD50323F42D574996F7F504F1BC2BE7FD5CE4B40AE84F0C6D74EAE7A4(0)",
+    "_data": {
+      "member": "OU=House of Food Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 989419877,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "House of Food Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "House of Food Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "House of Food Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1610538408032,
+      "modified": 1610616701424,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "e1544858-e586-48ae-9e80-d73feb708373"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=House of Food Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "A6F175DB02062D40038DE955AB6808C736CE2EBAD723EBE5DAA75A813802B306(0)",
+    "_data": {
+      "member": "OU=Good Game Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 60691622,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Good Game Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Good Game Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Good Game Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1610538405188,
+      "modified": 1610616727068,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "332d899a-d876-45f5-87b6-02818affba88"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Good Game Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "76FA00193F5C712DCF5BE1E97CB692CEE403DCCDB98D3179D7AA86F9A103BE75(0)",
+    "_data": {
+      "member": "OU=Global Trade and Receivables Finance, O=HSBC Bank Middle East LTD, L=Dubai, C=AE",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 980598548,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HBME UAE DEV",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC Bank Middle East LTD",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "HSBC Bank Middle East LTD",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1607313146094,
+      "modified": 1607334865810,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "008d87e2-a9b0-4c9d-9152-d64cffd7d2ad"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Global Trade and Receivables Finance, O=HSBC Bank Middle East LTD, L=Dubai, C=AE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "D047E036C0B8D043BA42892D2D3721D7A1F1B465065938D4D26BEA075BE425A8(0)",
+    "_data": {
+      "member": "OU=Contour_uat02, O=Bangkok Bank PCL, L=Bangkok, C=TH",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 284072194,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Bangkok Bank Thailand",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bangkok Bank PCL",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Bangkok Bank PCL",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1607394833582,
+      "modified": 1607400004731,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "05385b43-1586-4fc0-9152-4fd6286c0f90"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Contour_uat02, O=Bangkok Bank PCL, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9D66F2CDB0CA35EEE7CF9CA3ED99F1FBE3CF9382BF1843F122FAA2AE47CA4CCE(0)",
+    "_data": {
+      "member": "OU=Interchange Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 222150150,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Interchange Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Interchange Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Interchange Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1610532978978,
+      "modified": 1610616755106,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "ffe25ca7-aade-4491-8a52-5f83fca60c64"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Interchange Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "8C98DB601699783127EAE2E016E723914136F277164DD2C96B2B3C7FE2DE895F(0)",
+    "_data": {
+      "member": "OU=Master Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 101219435,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Master Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Master Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Master Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1608623372625,
+      "modified": 1608631213420,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "08a6bdc5-5933-4b53-b424-055665ef5b2a"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Master Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "A787AC51EE739045AC7EAB22927E2923295C63426205B57056C955A924F1E49E(0)",
+    "_data": {
+      "member": "OU=Yellow Sun Ltd., O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 683756156,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Yellow Sun Co. Ltd.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Yellow Sun Co. Ltd.",
+          "SWIFT_BEI": "683756156"
+        },
+        "legalName": "Yellow Sun Co. Ltd.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1605258897985,
+      "modified": 1608730451265,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "26b734b0-4f60-4aa3-969b-89e0f590b65b"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Yellow Sun Ltd., O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "1947E707C4D98E9FC86B4ED05FBCBAC75EE319D4D6F0BEBA61D0D500E89BCADA(0)",
+    "_data": {
+      "member": "OU=Jobs Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 715695315,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Jobs Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Jobs Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Jobs Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1610532992417,
+      "modified": 1610616780443,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "bb95e709-3218-48ce-b23e-c49994ae6de8"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Jobs Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "86D846BEB141647548AE572CE302CFB29759B153907CAFA2C809EEA85EF049F5(0)",
+    "_data": {
+      "member": "OU=Great Wall Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 236016910,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Great Wall Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Great Wall Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Great Wall Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1610529941880,
+      "modified": 1610616833404,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1ae4cee9-b257-45af-b915-6571639b2e1d"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Great Wall Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "38520F664A35B331A0E32FC967DD8A3566F9780A716EF753CF1B2F2CBA1AB49E(0)",
+    "_data": {
+      "member": "OU=Northpoint Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 998594420,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Northpoint Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Northpoint Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Northpoint Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1609210656763,
+      "modified": 1609210784080,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "d65bcc3f-448a-47fb-aac0-3e597adfaba9"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Northpoint Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "E232EAFA79DAAD472D40BB7B24B867E63AFF49D88B31ACAC92759B95C8F28914(0)",
+    "_data": {
+      "member": "OU=New Ignition Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 682113043,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "New Ignition Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "New Ignition Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "New Ignition Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1609210694262,
+      "modified": 1609210824093,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b403ba6f-8115-48fc-967a-c3ad853943c9"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=New Ignition Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "C3021B7F297DA33AB6C3C2092DBC30D646B3F5DB8BFBCB9DE74A89D9B45990F7(0)",
+    "_data": {
+      "member": "OU=Maple House Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 819404090,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Maple House Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Maple House Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Maple House Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1609212711354,
+      "modified": 1609220728785,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "8c993cc9-318c-4b6a-8329-4d18ae71ce3d"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Maple House Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "B079A5B675B5E02816ADA552D0CFE2AD7C050D52021454E7ACDA593DE4067C6C(0)",
+    "_data": {
+      "member": "OU=Contour_uat01, O=Bangkok Bank PCL, L=Bangkok, C=TH",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 470247272,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Bangkok Bank Indonesia",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bangkok Bank Indonesia",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Bangkok Bank Indonesia",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1609247652894,
+      "modified": 1609249316618,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "76cef74b-7645-49a3-85a7-d74253e3d23d"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Contour_uat01, O=Bangkok Bank PCL, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "CC762E3A9C82F72250C339A34CB208FBAF2ED627337235FC76223B74410690F5(0)",
+    "_data": {
+      "member": "OU=Contour_uat03, O=Bangkok Bank PCL, L=Bangkok, C=TH",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 807182104,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "BBL Importer Company",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BBL Importer Company",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "BBL Importer Company",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1610529736184,
+      "modified": 1610616603353,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "8f9b10a3-a8b0-47e8-a6fe-48fda3930039"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Contour_uat03, O=Bangkok Bank PCL, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "55FC4FA972E4E13C8B0EC8AD232C48E66995704EE398591A6F7773B4ECFB847B(0)",
+    "_data": {
+      "member": "OU=HelloWorld Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 688523725,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HelloWorld Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HelloWorld Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "HelloWorld Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1610533049770,
+      "modified": 1610616806032,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "82efa12a-2e69-43be-b945-23bbe996a087"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=HelloWorld Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "EBD6F4739389CCD6927CE47F99FD8C754E2CE435E2C885939FE2EB599BF9486E(0)",
+    "_data": {
+      "member": "OU=Jaguar Co. Ltd., O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 237606436,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Jaguar Co. Ltd.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Jaguar Co. Ltd.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Jaguar Co. Ltd.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1610538479151,
+      "modified": 1610616872766,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "deea3cd8-16f2-47a4-9b75-89b8b03adca5"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Jaguar Co. Ltd., O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "AA7A2E151C1C88B0817AA6267AF0F83D0D9E12237151E28004C14277A8883BB0(0)",
+    "_data": {
+      "member": "OU=International Trade Ltd., O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 245982836,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "International Trade Ltd.",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "International Trade Ltd.",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "International Trade Ltd.",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1610538417151,
+      "modified": 1610616897795,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b59706f2-443b-4faa-812f-0347e1a51812"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=International Trade Ltd., O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "B5AA96DB013A27A46EC736CBC2EC912FBE3769DD598E4AFE765BD1E28331CFD7(0)",
+    "_data": {
+      "member": "OU=Contour_uat04, O=Bangkok Bank PCL, L=Bangkok, C=TH",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 36752688,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "BBL Exporter Company",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BBL Exporter Company",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "BBL Exporter Company",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1610701585673,
+      "modified": 1610704026543,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "8e423d2b-e5e9-49c1-87f1-1379c37f3cf9"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Contour_uat04, O=Bangkok Bank PCL, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "75A23D28E21830FBC4C573C4C5ADCF09694C1912482CE519614459F371AA6860(0)",
+    "_data": {
+      "member": "OU=CTR UAT AGENT, O=BNP PARIBAS SA, L=PARIS, C=FR",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 965730144,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "BNP PARIBAS",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNP PARIBAS SA",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "BNP PARIBAS SA",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1608728775335,
+      "modified": 1611224335528,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1d50e0e8-6778-4403-a97f-c1188d0a5200"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CTR UAT AGENT, O=BNP PARIBAS SA, L=PARIS, C=FR"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "C2930B3EDE2398A596C72B00E5431CE0074221DB5E0071DE0260920FC71D72B2(0)",
+    "_data": {
+      "member": "OU=Kingsman Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 407684819,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Kingsman Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Kingsman Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Kingsman Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1611226584702,
+      "modified": 1611561789178,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "1bc27029-f395-45a9-b2d0-6ca8355b4642"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Kingsman Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "8ABC5DBB8F553D4978D2A97F649523D9D916CF93924AD40ECAEFEF22D9AA9128(0)",
+    "_data": {
+      "member": "OU=Knowledge Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 117710053,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Knowledge Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Knowledge Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Knowledge Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1611226585035,
+      "modified": 1611561817118,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "55bc00f9-179f-41dd-ad47-b7d6df235732"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Knowledge Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "39D75219972B17839E122A23A215849B163062628711B43CC41744DAE3EDDF33(0)",
+    "_data": {
+      "member": "OU=Contour_uat05, O=Bangkok Bank PCL, L=Bangkok, C=TH",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 913139303,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Bangkok Bank Indonesia New",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Bangkok Bank Indonesia New",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Bangkok Bank Indonesia New",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1610702212014,
+      "modified": 1613986400764,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "af738782-af02-4f56-afe9-f93f4de1956d"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Contour_uat05, O=Bangkok Bank PCL, L=Bangkok, C=TH"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "44955250F8B52164AD0E3AA9EC0EC480EECA9576269257C88505AA3B63E52890(0)",
+    "_data": {
+      "member": "OU=Bank B UAT, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 876311511,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC BANK B UAT",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC BANK B UAT",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "HSBC BANK B UAT",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1615176632236,
+      "modified": 1615183984051,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "0ce807a5-2256-428c-a25a-83c9c5234ff7"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Bank B UAT, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "E2C5192D0A280A9B06C8A317309B53F3F4431F960AFAC6B08C4F6F9D5F3B42ED(0)",
+    "_data": {
+      "member": "OU=Corp A UAT, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 605124671,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "HSBC CORP A UAT",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC CORP A UAT",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "HSBC CORP A UAT",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1615192075942,
+      "modified": 1615196151392,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "02f8584e-54e9-4af1-ac05-5b81bb342377"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Corp A UAT, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "D90F30F6C5AF3EFEC3A3B05D4168764C91E4B6E0F8626EBE3636DFF8BE906CDC(0)",
+    "_data": {
+      "member": "OU=Corp B UAT, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 445511706,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "HSBC CORP B UAT",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC CORP B UAT",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "HSBC CORP B UAT",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1615298182869,
+      "modified": 1615340882062,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "a6d9f2cd-7fa2-41af-bb9c-46a9dcf1ae53"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Corp B UAT, O=The Hongkong and Shanghai Banking Corporation Limited, L=Central District, C=HK"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9CF1A5A56E3821600F002B009A4E280EBCCD9479753588507245C1049B7CC98C(0)",
+    "_data": {
+      "member": "OU=CTR STG AGENT 02, O=BNP PARIBAS, L=PARIS, C=FR",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 322544113,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "BNP PARIBAS STG 1",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNP PARIBAS STG 1",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "BNP PARIBAS STG 1",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1614270499296,
+      "modified": 1615340923899,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "aa888ae5-7c5b-43b3-8562-410e85f82bfe"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CTR STG AGENT 02, O=BNP PARIBAS, L=PARIS, C=FR"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "3CE3888CE9CFACC8182EA3E953EB0E24E29D40986E6E1318CD33D7C37B3F1232(0)",
+    "_data": {
+      "member": "OU=Permata_uat0, O=PT BANK PERMATA TBK, L=Jakarta, C=ID",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 319790470,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "PT BANK PERMATA TBK",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "PT BANK PERMATA TBK",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "PT BANK PERMATA TBK",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1616653733394,
+      "modified": 1616653904816,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "8846e045-944e-423b-9e6c-7d1281d5ca82"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Permata_uat0, O=PT BANK PERMATA TBK, L=Jakarta, C=ID"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "043218461D185E38C2676FCFCD953D541CC5CE1570C2700D2402659636069F26(0)",
+    "_data": {
+      "member": "OU=CTR DEV AGENT, O=BNP PARIBAS SA, L=PARIS, C=FR",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 877933822,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "BNP PARIBAS DEV",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNP PARIBAS DEV",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "BNP PARIBAS DEV",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1617262824582,
+      "modified": 1617265603288,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "00dee186-59bf-4692-ad13-5cdb369df9f3"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CTR DEV AGENT, O=BNP PARIBAS SA, L=PARIS, C=FR"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "3AB1046B63D7B82A6915CEFE19E9F345214DF141F48A3C1D116F1342DCA7155B(0)",
+    "_data": {
+      "member": "OU=BNPP Bank UAT2, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 106522081,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "BNPP Bank UAT2",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNPP Bank UAT2",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "BNPP Bank UAT2",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1617804125332,
+      "modified": 1617843341396,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b9f9cf34-b6ab-4f5b-9082-082498309ba6"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=BNPP Bank UAT2, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4371F96C6409ACAB6208045781729CB9F28F82D305DD048F8B1CDEE0F0F60B2E(0)",
+    "_data": {
+      "member": "OU=BNPP Corp UAT2, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 632707894,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "BNPP Corp UAT2",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNPP Corp UAT2",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "BNPP Corp UAT2",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1617804235133,
+      "modified": 1617843368934,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b9b55a35-478e-4a72-bea0-abadddf2bdf4"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=BNPP Corp UAT2, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2E46D0EB76DC27B1E826265B529BE17731185905405BAC7013EF44F3DCCBBDEE(0)",
+    "_data": {
+      "member": "OU=BNPP Bank UAT1, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 227370804,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "BNPP Bank UAT1",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNPP Bank UAT1",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "BNPP Bank UAT1",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1617804162299,
+      "modified": 1617843416349,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "d428dd65-2a15-4716-9a79-770c60ec3d89"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=BNPP Bank UAT1, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "51F3E47F185199E8E39FDA4BE23CE9BD3AF66B3E3D0D33E9A22EACC692AE7BF3(0)",
+    "_data": {
+      "member": "OU=BNPP Corp UAT1, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 474392247,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "BNPP Corp UAT1",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNPP Corp UAT1",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "BNPP Corp UAT1",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1617804142144,
+      "modified": 1617843453740,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "d98603ce-15bb-4aee-ab63-962fecceb156"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=BNPP Corp UAT1, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "7BECAE8268ADC016D18FC337F1BDFAE5EB3AC7C2D9CB8ABC98D648CAE7C1373B(0)",
+    "_data": {
+      "member": "OU=Lucky Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 483841450,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Lucky Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Lucky Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Lucky Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1618849134117,
+      "modified": 1618882100999,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "c6487967-596e-44b8-90c4-bd706c0083c7"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Lucky Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2A49B5CEC45F94A7B967654C8BE7D73974B19D64289131EE9DB716D84E2B64A6(0)",
+    "_data": {
+      "member": "OU=Optimal Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 981361248,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Optimal Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Optimal Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Optimal Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1618849144958,
+      "modified": 1618882162469,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3f00e6d8-5faa-40db-941d-400562e7219a"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Optimal Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "A20E129539DCF6462A71F43ED6E3088FF1D82B0DBF5462C9E73E9190995AF8D2(0)",
+    "_data": {
+      "member": "OU=Lyrical Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 718398431,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Lyrical Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Lyrical Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Lyrical Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1618885128451,
+      "modified": 1618885775643,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "a7a22b77-ab7d-4d8d-b495-393a0da51afe"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Lyrical Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "C3AA16BC951BAD9F9BB8346AADD5C5951C1B1010226F657CC12306D236644AE6(0)",
+    "_data": {
+      "member": "OU=Bank Z, O=HSBC Bank (China) Company Limited, L=Shanghai, C=CN",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 949622643,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "HSBC China",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "HSBC China",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "HSBC China",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1622089807119,
+      "modified": 1622093072400,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "6b5cd556-4f97-498f-ad7a-e1e81b621d56"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Bank Z, O=HSBC Bank (China) Company Limited, L=Shanghai, C=CN"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "6B6F9CCB3F9E8B43097551F5D3A1C7E2024470DDA517A9DA94B88AEEC670522A(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-PREPROD-NODE6, O=Standard Chartered Bank, L=London, C=GB",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 946206095,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered - Node6",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Standard Chartered Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1631196480036,
+      "modified": 1631235721262,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "ce6c97b4-f08c-463a-9802-880086bb7007"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-PREPROD-NODE6, O=Standard Chartered Bank, L=London, C=GB"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "07ED1D9F12E045A4745DBFE5E2DD3F59A253B87CA59FDAB00B9525AB1D551C08(0)",
+    "_data": {
+      "member": "OU=SABB_UAT_Bank02, O=The Saudi British Bank, L=Riyadh, C=SA",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 554488347,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "The Saudi British Bank - SABB",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "The Saudi British Bank - SABB",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "The Saudi British Bank - SABB",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1634545606431,
+      "modified": 1634547585515,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "707098e8-0d2e-40a4-af79-bae78745808f"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=SABB_UAT_Bank02, O=The Saudi British Bank, L=Riyadh, C=SA"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "D6D3AB2AF78DE304CE5DE36A29E7F7EB86440D56BE4B64DBF712A44BC4703634(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-PREPROD, O=Standard Chartered Bank Bangladesh Branch, L=Dhaka, C=BD",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 41322963,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered Bank - node 5",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank Limited",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Standard Chartered Bank Limited",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1608646080728,
+      "modified": 1621585148740,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "f9786e91-767f-48c4-852f-ef675ed7cfb0"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-PREPROD, O=Standard Chartered Bank Bangladesh Branch, L=Dhaka, C=BD"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "CC3AF5E35018067AB3D30677F72326F3081E6E7362E73671BE08151989DD1926(0)",
+    "_data": {
+      "member": "OU=Ericsson AB Corp-01 UAT, O=Ericsson AB, L=Stockholm, C=SE",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 259196432,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Ericsson AB LOC UAT",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Ericsson AB LOC UAT",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Ericsson AB LOC UAT",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1634742918961,
+      "modified": 1634743048600,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "edc137d1-be19-4620-8437-a4dc3dadf0d7"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Ericsson AB Corp-01 UAT, O=Ericsson AB, L=Stockholm, C=SE"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "E0939657A03EE425B565EFE259E8518A94A2FAF59843B7A08C764BC4F2F00621(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-PREPROD-NODE8, O=Standard Chartered Bank, L=London, C=GB",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 604710578,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered Bank - Node8",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Standard Chartered Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1631876603620,
+      "modified": 1631877777849,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "b05d4a26-ceb6-4652-b64a-486e2c67ca38"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-PREPROD-NODE8, O=Standard Chartered Bank, L=London, C=GB"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4994DD2EB4E266408A32B2A7156B44CFA48E6E0E63444C29960C1EF7447F672A(0)",
+    "_data": {
+      "member": "OU=SABB_UAT, O=The Saudi British Bank, L=Riyadh, C=SA",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 541459788,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "SABB",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SABB UAT",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "SABB UAT",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1623922740019,
+      "modified": 1625124539179,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "d476763d-d0d0-4197-a2f7-914951773226"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=SABB_UAT, O=The Saudi British Bank, L=Riyadh, C=SA"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "78EAD4C3C765914A4DEAAD96375E18755AF38068FC12A92829B0A0B88D94AB49(0)",
+    "_data": {
+      "member": "OU=SABB_CUST01_UAT, O=The Saudi British Bank, L=Riyadh, C=SA",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 791958249,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "SABB_CUSTOMER1",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SABB_CUSTOMER1",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "SABB_CUSTOMER1",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1623922901419,
+      "modified": 1625124560811,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "768c305a-ace5-49fc-94ce-08ecd0130621"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=SABB_CUST01_UAT, O=The Saudi British Bank, L=Riyadh, C=SA"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "EEA254DAC21296A16FF08AF0EC52C6AFB115C2BF9662E668597A1A5889467FF4(0)",
+    "_data": {
+      "member": "OU=SABB_CUST02_UAT, O=The Saudi British Bank, L=Riyadh, C=SA",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 370982356,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "SABB_CUSTOMER2",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SABB_CUSTOMER2",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "SABB_CUSTOMER2",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1623922908332,
+      "modified": 1625124580723,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "0dc63bcf-b5a5-446a-a841-7609c9c89e1a"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=SABB_CUST02_UAT, O=The Saudi British Bank, L=Riyadh, C=SA"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "0A740A492BDB242CF44E4D7D1050C4921C9CB10DD8388D33ADBB2E5F1F094F1E(0)",
+    "_data": {
+      "member": "OU=SABB_CUST03_UAT, O=The Saudi British Bank, L=Riyadh, C=SA",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 535162901,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "SABB_CUSTOMER3",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "SABB_CUSTOMER3",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "SABB_CUSTOMER3",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1623922913636,
+      "modified": 1625124616223,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "ea2b8c6b-1edb-441c-befe-24b50d9b9bbf"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=SABB_CUST03_UAT, O=The Saudi British Bank, L=Riyadh, C=SA"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "2E96B56FCC2519EB782BD6B8EAC2D891A0CD06CAC1FC82B8DCA319B8A90BEB24(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-PREPROD-Node2, O=Standard Chartered Bank, L=London, C=GB",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 369776921,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered - Node2",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Standard Chartered Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1620045373204,
+      "modified": 1620198134817,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3f5ca8dc-8fc6-46a4-9d65-9d3f20413a0b"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-PREPROD-Node2, O=Standard Chartered Bank, L=London, C=GB"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "CE4618C58A365548200B8BAA8A12CFF30F4014D51CA1210DFF51CE870536FBF5(0)",
+    "_data": {
+      "member": "OU=CTR DEV AGENT 2, O=BNP PARIBAS SA, L=PARIS, C=FR",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 7195481,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "BNP PARIBAS",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "BNP PARIBAS SA",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "BNP PARIBAS SA",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1626162271438,
+      "modified": 1626167129897,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "5fdf5164-9e0a-403f-94ce-8fe8e24197a3"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CTR DEV AGENT 2, O=BNP PARIBAS SA, L=PARIS, C=FR"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "5B2CD8B09A426F7303350D1104ACC58E241CBEF69983C218E33783BABA3B3355(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-PREPROD-Node1, O=Standard Chartered Bank, L=London, C=GB",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 579708594,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Standard Chartered - Node1",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Standard Chartered Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1620041331758,
+      "modified": 1620380150560,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "769ac975-0f89-447c-9303-8816e31d2b89"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-PREPROD-Node1, O=Standard Chartered Bank, L=London, C=GB"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "9ECB1A165E8CC8343BA4F9A5BA72D3D70D97F2757343EF916F3ACDBE8A63FB89(0)",
+    "_data": {
+      "member": "OU=Peace Keeper Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 999864066,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Pacific Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Pacific Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Pacific Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1618849295409,
+      "modified": 1620449482704,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "258eb691-1194-4a78-bf45-538e23e2fd4b"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Peace Keeper Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "4BE39BDAA476790E393224737843C6C62CAE1156718CED5574AC20EB4A37701A(0)",
+    "_data": {
+      "member": "OU=Open Minded Bank, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 519948961,
+      "membershipMetadata": {
+        "role": "BANK",
+        "displayName": "Ocean Bank",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Ocean Bank",
+          "SWIFT_BIC": ""
+        },
+        "legalName": "Ocean Bank",
+        "otherIdentifierType": "SWIFT_BIC",
+        "isBank": true
+      },
+      "issued": 1618849304235,
+      "modified": 1620453851942,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "3e841c4d-4f2d-41c3-ab86-329e3746e505"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Open Minded Bank, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "D1A131C6355E118EDD8948ECCACEFFB7C61EEA5933EC854D99B650AEE55BE129(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-PREPROD-Node3, O=Standard Chartered Bank, L=London, C=GB",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 143977947,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Standard Chartered Corporate 1",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Standard Chartered Bank",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1620048257475,
+      "modified": 1620744789217,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "0eedd1c6-6cd6-4d53-a864-d491b08fd220"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-PREPROD-Node3, O=Standard Chartered Bank, L=London, C=GB"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "EFC23B31E3520AD58CDC086802D9DB48893FEA5B89E7E0858B18A55D9F97D864(0)",
+    "_data": {
+      "member": "OU=CIB ITO-CORDA-PREPROD-Node4, O=Standard Chartered Bank, L=London, C=GB",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 357385064,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Standard Chartered Corporate 2",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Standard Chartered Bank",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Standard Chartered Bank",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1620048559820,
+      "modified": 1620744874492,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "eee244f9-0422-44a3-9c41-f08604cfe1d5"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=CIB ITO-CORDA-PREPROD-Node4, O=Standard Chartered Bank, L=London, C=GB"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  },
+  {
+    "ref": "A83ACB398119F868C8128DE6D14C13F2D4F3E39BD0296F4C7C11C1222227F59F(0)",
+    "_data": {
+      "member": "OU=Paragon Corp, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "bno": "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+      "clientId": 315562035,
+      "membershipMetadata": {
+        "role": "CORP",
+        "displayName": "Paragon Corp",
+        "address": "",
+        "enableGuarantee": false,
+        "enableLC": true,
+        "aliases": {
+          "LEGAL_NAME": "Paragon Corp",
+          "SWIFT_BEI": ""
+        },
+        "legalName": "Paragon Corp",
+        "otherIdentifierType": "SWIFT_BEI",
+        "isBank": false
+      },
+      "issued": 1618849113199,
+      "modified": 1618882197639,
+      "status": "ACTIVE",
+      "linearId": {
+        "externalId": null,
+        "id": "6763e97b-b74b-448a-b239-c8c19f408428"
+      },
+      "participants": [
+        "OU=Contour BNO, O=Contour Pte. Ltd., L=Singapore, C=SG",
+        "OU=Paragon Corp, O=Contour Pte. Ltd., L=Singapore, C=SG"
+      ],
+      "isActive": true,
+      "isRevoked": false,
+      "isPending": false
+    },
+    "_type": "MembershipState"
+  }
+]
